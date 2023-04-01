@@ -1,0 +1,6 @@
+precedence:
+  test: ccc
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8888

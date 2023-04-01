@@ -1,0 +1,4 @@
+/.idea/
+/spring-config.iml
+/config-server/target/
+/config-client/target/
